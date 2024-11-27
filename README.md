@@ -6,9 +6,9 @@ Com ajuda de ferramentas de AI, criei um roteiro e apresentação com slides, ab
 
 ## 🤖 Tecnologias Utilizadas
 
-https://chatgpt.com/ - Para montagem do roteiro.
-https://gamma.app/ - Para criar a apresentação.
-https://app.leonardo.ai/ - Para criar imagens do tema.
+1. https://chatgpt.com/ - Para montagem do roteiro.
+2. https://gamma.app/ - Para criar a apresentação.
+3. https://app.leonardo.ai/ - Para criar imagens do tema.
 
 ## 🧐 Processo de Criação
 Primeiramente, pedi para o ChatGPT "Me ajude a criar um roteiro para uma apresentação com slides, com o tema: Como tirar o melhor proveito, de forma colaborativa, entre humanos e inteligência artificial?". Após, utilizei o roteiro sugerido no Gamma, para criação da apresentação. Ajustei alguns slides, pois o layout não ficou com o mesmo tamanho para todos os slides, e substituí algumas imagens que gerou por outras que criei no Leonardo AI.
